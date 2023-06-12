@@ -1,7 +1,7 @@
 # Calculator
 A simple calculator that performs the four basic mathematical operations.
 
-##How does it works?
+## How does it works?
 <div style="background-color: gray; padding: 10px;">
   - The input value is treated as a string.
   - The `onclick` function is applied to add the key value to the input string.
@@ -10,7 +10,7 @@ A simple calculator that performs the four basic mathematical operations.
 </div>
 
 
-##Calculator display 
+## Calculator display 
 
 ![image](https://github.com/leonardopiller/Calculator/assets/121625024/08eec6a0-bb81-45a5-ba62-e270b97bb81f)
 
