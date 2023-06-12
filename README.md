@@ -14,3 +14,8 @@ A simple calculator that performs the four basic mathematical operations.
 
 ![image](https://github.com/leonardopiller/Calculator/assets/121625024/08eec6a0-bb81-45a5-ba62-e270b97bb81f)
 
+
+## Expression and result 
+
+![calculator-expression](https://github.com/leonardopiller/Calculator/assets/121625024/85ff4ffe-c749-4d30-81f5-68fa6dbd23e2)
+![calculator-result](https://github.com/leonardopiller/Calculator/assets/121625024/1671dfef-a1f6-4ed7-a238-2c2421a72e3a)
